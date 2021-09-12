@@ -11,6 +11,9 @@ Tommy Ryan Dwiputra (3201916005)
 
 - Resources
     
+     Sumber Gambar & Icon
+     https://www.vecteezy.com/vector-art/1906491-scan-code-qr-in-smartphone-with-businessman-and-magnifying-glass
+    
      Create Barcode Plugin
      https://pub.dev/packages/barcode_widget
   
