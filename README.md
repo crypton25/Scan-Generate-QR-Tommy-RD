@@ -1,29 +1,63 @@
-# scan_and_generate_qr_code
+# Scan & Generate QR Code by Tommy Rd
 
-A new Flutter project.
+Project Flutter.
 
-Let's build a Scan &  Generate Barcode or QR Code App with Flutter.
+Merupakan tugas UAS dari mata kuliah Praktikum Pemrograman Mobile.
 
-- Video
+Tommy Ryan Dwiputra (3201916005)
+
+- Video dokumentasi
    https://bit.ly/ScanDanGenerateBarcode
 
 - Resources
+    
      Create Barcode Plugin
      https://pub.dev/packages/barcode_widget
   
      Scan Barcode Plugin
      https://pub.dev/packages/flutter_barcode_scanner
+     
+     Clipboard Plugin
+     https://pub.dev/packages/clipboard
+     
+     Another Flushbar Plugin
+     https://pub.dev/packages/another_flushbar
+     
+     Animasi Teks Plugin
+     https://pub.dev/packages/animated_text_kit
+     
+     Custom Icon Plugin
+     https://pub.dev/packages/flutter_launcher_icons
+     
+     Penangkap Layar Plugin
+     https://pub.dev/packages/screenshot
+     
+     Share Gambar Plugin
+     https://pub.dev/packages/share
+     
+     Google Fonts Plugin
+     https://pub.dev/packages/google_fonts
+     
+     Font Awesome Plugin
+     https://pub.dev/packages/font_awesome_flutter
+    
+     
+## Tampilan Aplikasi
+
+main.dart
+
+![photo_2021-09-12_15-31-09](https://user-images.githubusercontent.com/79314862/132979728-fe580a0c-836d-46d3-8d99-bd411129d61c.jpg)
+
+profile.dart
+
+![photo_2021-09-12_15-34-07](https://user-images.githubusercontent.com/79314862/132979776-3498fc7d-101a-4639-8973-3ba9eff2f2b0.jpg)
+
+scan_qr_code.dart
+
+![photo_2021-09-12_15-34-10](https://user-images.githubusercontent.com/79314862/132979791-4aa7b42c-9458-4f50-992d-8effdef647ad.jpg)
+
+create_qr_code.dart
+
+![photo_2021-09-12_15-34-09](https://user-images.githubusercontent.com/79314862/132979799-21056f8f-9b8e-406b-b90a-da43dbdd593c.jpg)
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
